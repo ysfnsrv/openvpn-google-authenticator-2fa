@@ -1,6 +1,3 @@
-Perfect ✅ — here’s a **complete, polished `README.md`** written in English, formatted and ready for direct copy-paste into your GitHub repository.
-Everything is included: structure, credits to **Angristan**, explanation of why we enable services, local network + port forwarding notes, and screenshot placeholders.
-
 ---
 
 ````markdown
