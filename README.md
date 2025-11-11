@@ -286,7 +286,6 @@ See the `images/` directory for step-by-step screenshots.
 
 ---
 
-**Author:** *Your Name*
-**Created:** November 2025
+**Created:** 11 November 2025
 **Purpose:** Internal VPN with simple, secure 2FA access for local or small-team environments.
 ```
