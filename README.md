@@ -242,7 +242,7 @@ If your server is behind NAT:
 
 ---
 
-```markdown
+```
 See the `images/` directory for step-by-step screenshots.
 ```
 
