@@ -68,9 +68,7 @@ Example network:
 sudo -i
 apt update
 apt install -y git curl openvpn oathtool qrencode libpam-google-authenticator
-````
-
----
+```
 
 ### 2. Clone and run the Angristan OpenVPN installer
 
