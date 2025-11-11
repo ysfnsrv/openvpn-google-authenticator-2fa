@@ -251,19 +251,6 @@ If your server is behind NAT:
 
 ---
 
-## 📸 Recommended Screenshots
-
-Place screenshots in `images/` and reference them in this README.
-
-1. `images/angristan-install.png` – OpenVPN installation process
-2. `images/systemd-status.png` – `systemctl status openvpn@server` output
-3. `images/router-forwarding.png` – router NAT/port forwarding rule
-4. `images/otp-qr.png` – output of `add-vpn-user-otp.sh` showing QR code
-5. `images/authenticator.png` – Google Authenticator app entry
-6. `images/openvpn-login.png` – OpenVPN client login window
-
-Add to README if you want:
-
 ```markdown
 See the `images/` directory for step-by-step screenshots.
 ```
@@ -311,24 +298,4 @@ See the `images/` directory for step-by-step screenshots.
 **Author:** *Your Name*
 **Created:** November 2025
 **Purpose:** Internal VPN with simple, secure 2FA access for local or small-team environments.
-
-```
-
----
-
-## ✅ What to do now
-
-1. Create a new repo on GitHub (e.g. `openvpn-google-authenticator-2fa`).
-2. Inside it, add:
-   - `README.md` (the file above)  
-   - `google-authenticator.sh`  
-   - `add-vpn-user-otp.sh`
-3. Optionally, create an `images/` folder and upload the screenshots I listed.
-4. Commit and push.
-
-Then your GitHub page will look professional, clear, and properly credit **Angristan** while documenting your 2FA extension.
-
----
-
-Would you like me to also generate the **two .sh files** (`google-authenticator.sh` and `add-vpn-user-otp.sh`) in clean standalone form ready for upload into the repo next?
 ```
