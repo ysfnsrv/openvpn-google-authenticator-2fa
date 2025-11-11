@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # OpenVPN + Google Authenticator (TOTP) 2FA Setup
 
 This repository documents a simple and secure way to deploy **OpenVPN** with **Google Authenticator 2FA (TOTP)** on **Ubuntu**.
