@@ -6,7 +6,6 @@ This repository documents a simple and secure way to deploy **OpenVPN** with **G
 It is based on the excellent [angristan/openvpn-install](https://github.com/angristan/openvpn-install) project, extended with a minimal TOTP verification layer and user management helper scripts.
 
 ---
-
 ## 🎯 Overview
 
 This setup allows you to:
@@ -69,7 +68,6 @@ sudo -i
 apt update
 apt install -y git curl openvpn oathtool qrencode libpam-google-authenticator
 ```
-
 ### 2. Clone and run the Angristan OpenVPN installer
 
 ```bash
