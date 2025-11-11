@@ -1,5 +1,3 @@
----
-
 ````markdown
 # OpenVPN + Google Authenticator (TOTP) 2FA Setup
 
